@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reosao6
-- 👀 I’m interested in ... photoshoot ,poems and coding 
+- 👀 I’m interested in ... photoshoot ,poems , coding and video editing 
 - 🌱 I’m currently learning ... data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
