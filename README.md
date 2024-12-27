@@ -10,7 +10,7 @@
 reosao6/reosao6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![logo](https://github.com/reosao6/reosao6/blob/main/Screenshot%20(193).png)
+![logo](https://github.com/reosao6/reosao6/blob/main/Screenshot%20(192).png)
 <h2 align="left">Hi 👋! My name is Mahlet Tekle and I'm a DataScience student, from Debrebrehan University</h2>
 
 ###
