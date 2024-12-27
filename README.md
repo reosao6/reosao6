@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="150" src=![Uploading image.png…]()
+<img align="right" height="150" src=https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif
 
 
 ###
