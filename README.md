@@ -15,7 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/708d6607-af03-48d5-b1fa-68a9b7d028b7" />
+<p align="center">
+  <img height="150" src="https://github.com/user-attachments/assets/708d6607-af03-48d5-b1fa-68a9b7d028b7" alt="profile image" />
+</p>
+
 
 
 
